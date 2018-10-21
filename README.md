@@ -3,8 +3,6 @@ Ruby script for getting the next leaving bus time for ZET.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
  - ruby
  - nokogiri - https://github.com/sparklemotion/nokogiri
 
@@ -20,5 +18,4 @@ Usage: zet.rb [options]
 ```
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
